@@ -1,0 +1,136 @@
+{
+    "routes": [
+        {
+            "summary": {
+                "distance": 505.2,
+                "duration": 363.7
+            },
+            "segments": [
+                {
+                    "distance": 505.2,
+                    "duration": 363.7,
+                    "steps": [
+                        {
+                            "distance": 46.0,
+                            "duration": 33.1,
+                            "type": 11,
+                            "instruction": "Head southeast on Rue Vauvenargues",
+                            "name": "Rue Vauvenargues",
+                            "way_points": [
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "distance": 70.1,
+                            "duration": 50.5,
+                            "type": 13,
+                            "instruction": "Keep right onto Rue Eug\u00e8ne Carri\u00e8re",
+                            "name": "Rue Eug\u00e8ne Carri\u00e8re",
+                            "way_points": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "distance": 111.9,
+                            "duration": 80.6,
+                            "type": 1,
+                            "instruction": "Turn right onto Rue du Square Carpeaux",
+                            "name": "Rue du Square Carpeaux",
+                            "way_points": [
+                                5,
+                                8
+                            ]
+                        },
+                        {
+                            "distance": 51.3,
+                            "duration": 36.9,
+                            "type": 0,
+                            "instruction": "Turn left onto Rue du Square Carpeaux",
+                            "name": "Rue du Square Carpeaux",
+                            "way_points": [
+                                8,
+                                10
+                            ]
+                        },
+                        {
+                            "distance": 123.3,
+                            "duration": 88.7,
+                            "type": 1,
+                            "instruction": "Turn right onto Rue Marcadet",
+                            "name": "Rue Marcadet",
+                            "way_points": [
+                                10,
+                                14
+                            ]
+                        },
+                        {
+                            "distance": 102.6,
+                            "duration": 73.9,
+                            "type": 0,
+                            "instruction": "Turn left onto Rue Coysevox",
+                            "name": "Rue Coysevox",
+                            "way_points": [
+                                14,
+                                16
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Rue Coysevox, on the left",
+                            "name": "-",
+                            "way_points": [
+                                16,
+                                16
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "bbox": [
+                2.329732,
+                48.891642,
+                2.333682,
+                48.893388
+            ],
+            "geometry": "unliHovfMf@e@ZYR?|ALJ?ANIvC[bClAd@HBCZq@vFEd@AHLFzCdB",
+            "way_points": [
+                0,
+                16
+            ]
+        }
+    ],
+    "bbox": [
+        2.329732,
+        48.891642,
+        2.333682,
+        48.893388
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1636724872053,
+        "query": {
+            "coordinates": [
+                [
+                    2.333219,
+                    48.89333
+                ],
+                [
+                    2.32982,
+                    48.891618
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "json"
+        },
+        "engine": {
+            "version": "6.6.1",
+            "build_date": "2021-07-05T10:57:48Z",
+            "graph_date": "2021-10-22T02:47:35Z"
+        }
+    }
+}
