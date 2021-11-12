@@ -68,6 +68,7 @@ def best_journey(post_url, start,end,authentification,name, json_file=True):
             return data_dumped
         
         else : 
+            print('#####')
             distance = data['routes'][0]['summary']['distance']
             duration = data['routes'][0]['summary']['duration']
             return  distance , duration 
