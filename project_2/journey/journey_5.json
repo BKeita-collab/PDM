@@ -1,0 +1,92 @@
+{
+    "routes": [
+        {
+            "summary": {
+                "distance": 252.3,
+                "duration": 181.7
+            },
+            "segments": [
+                {
+                    "distance": 252.3,
+                    "duration": 181.7,
+                    "steps": [
+                        {
+                            "distance": 88.3,
+                            "duration": 63.6,
+                            "type": 11,
+                            "instruction": "Head southeast on Rue \u00c9tex",
+                            "name": "Rue \u00c9tex",
+                            "way_points": [
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "distance": 164.0,
+                            "duration": 118.1,
+                            "type": 2,
+                            "instruction": "Turn sharp left onto Rue Coysevox",
+                            "name": "Rue Coysevox",
+                            "way_points": [
+                                2,
+                                7
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Rue Coysevox, on the right",
+                            "name": "-",
+                            "way_points": [
+                                7,
+                                7
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "bbox": [
+                2.327911,
+                48.890284,
+                2.329732,
+                48.891642
+            ],
+            "geometry": "i~kiHmteM`A_C^}@KEqC}AKIIC{A{@",
+            "way_points": [
+                0,
+                7
+            ]
+        }
+    ],
+    "bbox": [
+        2.327911,
+        48.890284,
+        2.329732,
+        48.891642
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1636724873320,
+        "query": {
+            "coordinates": [
+                [
+                    2.32783,
+                    48.890707
+                ],
+                [
+                    2.32982,
+                    48.891618
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "json"
+        },
+        "engine": {
+            "version": "6.6.1",
+            "build_date": "2021-07-05T10:57:48Z",
+            "graph_date": "2021-10-22T02:47:35Z"
+        }
+    }
+}
